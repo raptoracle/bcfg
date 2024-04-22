@@ -7,10 +7,10 @@
     "config"
   ],
   "license": "MIT",
-  "repository": "git://github.com/bcoin-org/bcfg.git",
-  "homepage": "https://github.com/bcoin-org/bcfg",
+  "repository": "git://github.com/raptoracle/bcfg.git",
+  "homepage": "https://github.com/raptoracle/bcfg",
   "bugs": {
-    "url": "https://github.com/bcoin-org/bcfg/issues"
+    "url": "https://github.com/raptoracle/bcfg/issues"
   },
   "author": "Christopher Jeffrey <chjjeffrey@gmail.com>",
   "main": "./lib/bcfg.js",
